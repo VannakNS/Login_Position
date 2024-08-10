@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container-body{
+    position: relative;
+    width: 100%;
+    height: 920px;
+    background-color: rgb(156, 131, 168,0.15);
+}
